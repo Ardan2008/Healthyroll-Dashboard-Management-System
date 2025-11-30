@@ -52,7 +52,9 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Mockup 
 
-<p align="center"><img src="../../image/mockup.png" alt="Mockup" width="400"></p>
+<p align="center">
+    <img src="{{ asset('image/mockup.png') }}" alt="Mockup" width="400">
+</p>
 
 ## Security Vulnerabilities
 
