@@ -52,7 +52,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Mockup 
 
-<p align="center"><img src="mockup.jpg" alt="Mockup" width="400"></p>
+<p align="center"><img src="mockup.jpg" alt="Mockup" width="600"></p>
 
 ## Security Vulnerabilities
 
