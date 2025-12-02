@@ -37,7 +37,6 @@ Route::get('/profile', function () {
     return view('profile');
 })->name('profile');
 
-Route::get('/order', [OrderController::class, 'index'])->name('order');
 Route::post('/orders', [OrderController::class, 'store'])->name('orders.store'); 
 Route::get('/orders-data', [OrderController::class, 'indexJson'])->name('orders.data');
 Route::get('/orders/{order}/edit', [OrderController::class, 'edit'])->name('orders.edit');
